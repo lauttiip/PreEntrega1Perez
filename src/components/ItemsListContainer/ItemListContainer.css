@@ -1,0 +1,14 @@
+.bienvenida{
+    display: flex;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    justify-content: center;
+}
+
+.bienvenida h2{
+    color: brown;
+    text-align: center;
+    font-size: 4rem;
+    text-decoration: underline;
+}
